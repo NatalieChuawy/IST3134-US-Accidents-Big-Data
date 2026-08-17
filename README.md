@@ -1,8 +1,8 @@
 # IST3134-US-Accidents-Big-Data
-Big Data analysis of US traffic accident patterns using PySpark and Spark SQL on Amazon EMR, with Pandas as a comparison approach.
+Big Data analysis of US traffic accident patterns using PySpark and Spark SQL on AWS Academy EMR, with Pandas as a comparison approach.
 
 This project analyses the US Accidents (2016–2023) dataset using
-PySpark and Spark SQL on Amazon EMR.
+PySpark and Spark SQL on AWS Academy.
 
 ## Dataset
 
